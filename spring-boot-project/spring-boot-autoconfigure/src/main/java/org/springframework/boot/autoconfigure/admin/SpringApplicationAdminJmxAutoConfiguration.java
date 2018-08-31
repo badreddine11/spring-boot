@@ -47,6 +47,7 @@ import org.springframework.jmx.export.MBeanExporter;
 public class SpringApplicationAdminJmxAutoConfiguration {
 
 	/**
+	*
 	 * The property to use to customize the {@code ObjectName} of the application admin
 	 * mbean.
 	 */
